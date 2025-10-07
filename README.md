@@ -8,12 +8,13 @@
 - **Back End:** C# (Workers, ASP.NET, APIs)
 - **Data & Scripting:** Python, PowerShell
 - **Front End:** Angular
-- **DevSecOps:** Focused on integrating security into every stage of the development lifecycle
+- **DevSecOps:** Focused on integrating security and reslience into every stage of the development lifecycle
 
 ### ☁️ Cloud & Deployment
 - **Primary Cloud:** Azure
 - **Experience with:** AWS, Google Cloud, Private Clouds
-- **Deployments:** Azure Container Apps, Red Hat OpenShift, Kubernetes
+- **Deployments:** Azure Container Apps, Red Hat OpenShift, Kubernetes, Terraform, Ansible
+- **Pipelines:** Github Actions, Azure Pipelines, Octopus Deploy, Teamcity, Jenkins. Will learn others if you have them.
 
 ---
 
