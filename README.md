@@ -1,14 +1,30 @@
 # 👋 Hi, I'm grimley517
 
-**Tech Lead / Solution Architect | Transportation Industry | DevSecOps Specialist**
+**Technical Architect | Government and Public sector**
 
 ---
 
 ### 🛠️ Tech Stack
-- **Back End:** C# (Workers, ASP.NET, APIs)
-- **Data & Scripting:** Python, PowerShell
-- **Front End:** Angular
-- **DevSecOps:** Focused on integrating security and reslience into every stage of the development lifecycle
+- 🤖 **Back End:**
+    - C# (Workers, ASP.NET, APIs)
+    - Go (Workers, CLIs)
+- 🗃️ **Data & Scripting:**
+    - Python
+        - Data notebooks
+        - Scripts  
+    - PowerShell,
+        - Scripts 
+    - bash
+        - Scripts 
+- 🕸️ **Front End:**
+    - Angular
+    - Vue
+    - plain HTML
+    - Jekyll
+- 🛣️ **DevSecOps:**
+    - Terraform
+    - Ansible
+    - 
 
 ### ☁️ Cloud & Deployment
 - **Primary Cloud:** Azure
