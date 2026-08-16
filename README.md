@@ -21,10 +21,18 @@
     - Vue
     - plain HTML
     - Jekyll
+    - Go
+        - Command line tooling 
+        - various GUIs
+    - C#
+        - WPF,
+        - Windows forms
 - 🛣️ **DevSecOps:**
     - Terraform
+    - Bicep
     - Ansible
-    - 
+    - Jenkins
+    - GitOps 
 
 ### ☁️ Cloud & Deployment
 - **Primary Cloud:** Azure
